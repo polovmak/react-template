@@ -1,4 +1,7 @@
-import './styles.css'
 export const App = () => {
-  return <h1>Template</h1>
+  return (
+    <div className="bg-black text-2xl text-white flex justify-center">
+      Template
+    </div>
+  )
 }
